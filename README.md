@@ -6,7 +6,7 @@ Designed application using Flutter
 
 Designed application as per given design above from ArkVerse 
 
-I have used Flutter for doing this application
+I have used Flutter for doing this application using Dart language
 
 I have tried to implement GPS in application, when i was adding dependencies for GPS i got many errors. Tried to clear out. It didn’t coz flutter is in development stage. So some dependency doesn’t work well with application.
 
